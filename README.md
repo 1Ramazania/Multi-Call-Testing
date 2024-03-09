@@ -8,9 +8,6 @@
 </a>
 <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> 
   <img src="https://github.com/gilbarbara/logos/blob/main/logos/selenium.svg" alt="Selenium" width="50" height="50"/> 
-</a>
-<a href="https://testng.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.pngegg.com/en/png-eonml" alt="testNG" width="50" height="50"/> 
 </a>       
 
 <table align="center" style="margin: 0px auto; text-align:center;">
