@@ -4,23 +4,21 @@
 ## Used Technologies
 <p align="center"> 
   <a href="https://www.java.com/tr/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" width="50" height="50"/> 
 </a>
-<a href="https://developer.android.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="android" width="40" height="40"/> 
+<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> 
+  <img src="https://github.com/gilbarbara/logos/blob/main/logos/selenium.svg" alt="Selenium" width="50" height="50"/> 
 </a>
-<a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sqlite" width="40" height="40"/> 
+<a href="https://testng.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.pngegg.com/en/png-eonml" alt="testNG" width="50" height="50"/> 
 </a>       
 
 <table align="center" style="margin: 0px auto; text-align:center;">
 
 <tr>
-  <td>Recycler view</td>
-  <td>View Binding</td>
-  <td>XML</td>
-  <td>Animation</td>
+  <td>Junit</td>
+  <td>testNG</td>
+  <td>Java</td>
+  <td>Selenium</td>
 </tr>
 </table>
-<p align="center"> <a href="https://play.google.com/store/apps/details?id=com.beraterdem.tarifkupu&pli=1" target="_blank" rel="noreferrer">
-<img src="https://cloud.githubusercontent.com/assets/5692567/10923351/6b688a92-8278-11e5-9973-8ffbf3c5cc52.png" alt="playstore" width="230" height="60"/>
